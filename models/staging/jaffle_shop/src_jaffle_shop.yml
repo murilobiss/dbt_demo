@@ -17,7 +17,7 @@ sources:
 
       - name: orders
         description: Raw orders data.
-        columns:rs’, contained in a file called docs_jaffle_shop.m
+        columns:
           - name: id
             description: Primary key for orders.
             tests:
